@@ -1,0 +1,3 @@
+[workspace]
+members = ["programs/solana-clockwork-automation-bot"]
+resolver = "2"
